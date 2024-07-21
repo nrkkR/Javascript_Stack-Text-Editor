@@ -30,7 +30,7 @@ To get started with the Stack-Based Text Editor, follow these steps:
 
 ## Screenshot
 
-<img align="center" alt="coding" width="650" src="https://github.com/nrkkR/Javascript_Graph-Algorithms-Visualizer/blob/main/graph%20algorithms%20visualizer.png">
+<img align="center" alt="coding" width="750" src="https://github.com/nrkkR/Javascript_Stack-Text-Editor/blob/main/stack%20text%20editor.png">
 
 
 ## Credits / Author
